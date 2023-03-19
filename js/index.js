@@ -15,10 +15,12 @@ function SignupDone() {
 }
 
 function checkuser(){
-  let int=0
+  let hgv=0
   for(let i=0; i<emailarray.length;i++){
     int++;
-    if(document.getElementById)
+    if(document.getElementById){
+      console.log("done")
+    }
   }
 }
 

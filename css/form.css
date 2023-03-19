@@ -7,6 +7,9 @@
   font-family: "Poppins", sans-serif;
   box-sizing: border-box;
 }
+#signNav{
+  display: none;
+}
 .main-container {
   width: 100%;
   height: 50vh;
@@ -15,9 +18,6 @@
   background-position: center;
   background-size: cover;
   position: relative;
-}
-#signNav{
-  display: none;
 }
 .form-box {
   width: 85%; 
